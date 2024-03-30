@@ -37,7 +37,7 @@ Query: {query}
     ]
 )
 
-""" modelo de OpenAI"""
+""" Modelo de OpenAI """
 llm = ChatOpenAI()
 
 """ Generación de respuesta basada en el contenido recuperado """
