@@ -1,0 +1,11 @@
+python==3.12.2
+uvicorn==0.23.2
+python-dotenv==1.0.1
+poetry==1.8.2
+fastapi==0.110.0
+langsmith==0.1.31
+langchain==0.1.13
+langchain-cli==0.0.21
+langchain-community==0.0.29
+openai==1.14.2
+langchain-openai==0.1.0
