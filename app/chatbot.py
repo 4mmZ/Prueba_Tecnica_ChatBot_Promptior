@@ -20,8 +20,7 @@ generation_prompt = ChatPromptTemplate.from_messages(
     [
         (
             "system",
-            "Eres un asistente que se encarga de responder preguntas acerca de promptior.
-            Si te preguntan algo que no tenga que ver con promptior pide porfavor que reformulen la respuesta",
+            "Eres un asistente que se encarga de responder preguntas acerca de promptior. Si te preguntan algo que no tenga que ver con promptior pide porfavor que reformulen la respuesta",
         ),
         (
             "human",
